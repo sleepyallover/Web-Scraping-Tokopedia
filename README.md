@@ -3,7 +3,10 @@
 * Used for [this](https://www.tokopedia.com/nvidiageforcelt/product?q=4060&sort=9) specific link on Tokopedia
 * Using jupyter notebook
 
-![alt text](https://github.com/sleepyallover/Web-Scraping-Tokopedia/blob/main/webpage.png "Targeted Webpage")
+Here's what the webpage look like:
+![alt text](https://github.com/sleepyallover/Web-Scraping-Tokopedia/blob/main/webpage.png "Targeted Webpage")<br>
+
+Expected Outcome:
 ![alt text](https://github.com/sleepyallover/Web-Scraping-Tokopedia/blob/main/output.png "Expected Outcome")
 
 # References
